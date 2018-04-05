@@ -1,0 +1,55 @@
+ads
+
+As principais atribuições do Tecnólogo em Análise e Desenvolvimento de Sistemas são: analisar, projetar, documentar, especificar, 
+testar, implantar e manter sistemas de computação. Os alunos da UNINOVE são preparados para o projeto e desenvolvimento dos mais
+ variados tipos de sistemas de computação, além de utilizar ferramentas computacionais, equipamentos de informática e metodologia
+ de projetos na produção de sistemas.
+ O profissional pode atuar em todas as áreas e setores da economia: empresas de tecnologia, assessoria e consultoria tecnológica,
+ instituições financeiras, indústria, comércio, prestação de serviços, órgãos públicos, recursos humanos, empresas nacionais ou 
+multinacionais.
+
+O profissional de análise e desenvolvimento de sistemas pode trabalhar nas funções de analista e desenvolvedor de sistemas,
+ analista de negócios, analista de suporte, arquiteto de softwares, desenvolvedor de sistemas para internet, coordenador, 
+gerente de tecnologia, empreendedor, consultor, dentre outras funções na área de tecnologia.
+
+si
+
+O curso forma profissionais das áreas de computação e de informática para atuação em pesquisa, gestão, desenvolvimento, uso e 
+avaliação de tecnologias da informação aplicadas nas organizações. Também oferece a oportunidade de o aluno desenvolver atividades 
+que buscam o aperfeiçoamento da capacidade de expressão e do relacionamento humano, ampliando suas habilidades para que possa atuar
+ em diversos segmentos do mercado.
+
+*Unidade avançada do Polo Bauru.
+O profissional atuará em inovação, planejamento e gerenciamento da informação e da infraestrutura de tecnologia da informação,
+ alinhados aos objetivos organizacionais e à estratégia de negócios, buscando vantagens competitivas para a organização. Também
+ poderá trabalhar no desenvolvimento e evolução de sistemas e infraestrutura de informação para uso em processos organizacionais,
+ departamentais e individuais, unindo estratégias de tecnologia da informação às estratégias de negócios, criando as soluções 
+necessárias à inovação e flexibilidade organizacionais, tanto no nível tático quanto operacional. Nesta área, o profissional 
+de Sistemas de Informação atuará no desenvolvimento, implantação, gestão e evolução dos sistemas de informação e da infraestrutura
+ de tecnologia da informação.
+
+
+
+bd
+Atendendo as demandas do mercado, o curso de Tecnologia em Banco de Dados prepara o aluno para projetar, implementar e gerenciar
+ bases de dados, garantindo a usabilidade, segurança e integridade das informações das organizações.
+O Tecnólogo em Banco de Dados é um profissional muito bem valorizado por empresas de todos os portes e ramos de negócio, exercendo
+ funções que envolvem a modelagem ou o projeto do banco de dados, a implementação das bases de dados em servidores e a administração
+ de todo o sistema de gerenciamento de dados da empresa.
+
+informatica industrial
+
+O curso capacita o aluno a atuar na análise de problemas organizacionais e a selecionar, projetar e utilizar, de forma adequada e 
+econômica, soluções tecnológicas para otimizar e viabilizar a implantação de diferenciais estratégicos nas empresas.
+São muitos os campos de atuação do profissional formado na UNINOVE: pode trabalhar no desenvolvimento de soluções de software, 
+utilizando técnicas, métodos, ferramentas e linguagens de programação para criar aplicações eficientes e integrar Sistemas de 
+
+Banco de Dados às soluções em tecnologia da informação nas organizações; pode administrar recursos de infraestrutura física e 
+lógica de ambientes informatizados e definir parâmetros de utilização de sistemas; pode gerenciar recursos humanos, implantar 
+e documentar rotinas, controlar os níveis de serviço de sistemas operacionais e gerenciar os sistemas implantados; pode projetar
+ a informatização do negócio em TI por meio de definição do escopo do projeto, pesquisa de dados, prototipação e planejamento e 
+formatação de documentação técnica.
+
+Direção de Departamento
+Prof. Doutor Marcos Alberto Bussab
+

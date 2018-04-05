@@ -1,0 +1,66 @@
+
+noticias
+
+FACEBOOK SE ENVOLVE EM ESCÂNDALO NO USO DE DADOS PARA POLÍTICA
+
+O Facebook está sendo acusado de expor os dados de 50 milhões de usuários – sem o conhecimentos destes – pela empresa Cambridge Analytica.
+
+O que aconteceu?
+Através de um teste psicológico, a rede social consegui coletar as informações, não somente a dos participantes, mas também dos amigos daqueles que fizeram os testes.
+
+A notícia sobre o vazamento, revelado no dia 17, dos dados ocasionou uma onda de críticas, e na segunda-feira o valor do Facebook diminuiu US$4,9 bilhões. É claro, o ocorrido levanta diversas dúvidas no que diz respeito a transparência e a privacidade, ou a falta deles, na empresa. A segurança da informação é crucial, principalmente quando envolve dados de um número tão expressivo de pessoa.
+
+“Temos uma responsabilidade de proteger seus dados, e se não conseguimos, então não merecemos servi-lo”, escreveu Zuckerberg.
+
+Esses dados estavam sendo usados pela firma britânica para campanhas eleitorais sem nenhum consentimento dos usuários, o que deu bastante repercussão.
+
+Vale ressaltar que o o que ocorreu não foi uma invasão de hackers e criminosos, mas, sim, o uso indevido dos dados pessoais.
+
+Brian Acton, cofundador do WhatsApp, usou a #deletefacebook no Twitter.
+
+It is time. #deletefacebook
+
+— Brian Acton (@brianacton) 20 de março de 2018
+
+O que foi coletado?
+De acordo com o G1, os dados “incluíam detalhes sobre a identidade das pessoas – como nome, profissão, local de moradia – seus gostos e hábitos e sua rede de contatos”.
+
+
+noticia dois 
+
+TRÊS SERVIÇOS VPN QUE ESTÃO VAZANDO SEU ENDEREÇO IP
+
+Pesquisadores descobriram vulnerabilidades críticas em três serviços populares de VPN que podem vazar endereços IP reais de usuários e outros dados confidenciais.
+
+VPN, ou Rede Privada Virtual, é uma ótima maneira de proteger suas atividades diárias, criptografando seus dados e aumentando a segurança, além de ser útil para obscurecer seu endereço IP real.
+
+Enquanto alguns escolhem serviços VPN para o anonimato online e segurança de dados, outras usam VPN para esconder seus endereços IP reais para contornar a censura online e acessar sites bloqueados por seus ISPs.
+
+Mas, e se a VPN que você pensou realmente estar lhe protegendo, estivesse vazando seus dados confidenciais e sua localização real?
+
+Uma equipe de três hackers éticos contratados pela firma de defesa da privacidade VPN Mentor revelou que três provedores de serviços de VPN populares – HotSpot Shield, PureVPN e Zenmate – com milhões de clientes em todo o mundo estavam vulneráveis ??a falhas que poderiam comprometer a privacidade do usuário.
+
+A equipe inclui o pesquisador de segurança de aplicativos Paulos Yibelo, um hacker ético conhecido por seu apelido ‘File Descriptor’ e trabalho para a Cure53, e outro que não teve a identidade revelada.
+
+PureVPN é a mesma empresa que mentiu à política não possuir logs, mas há alguns meses ajudou o FBI com logs que levaram à prisão de um homem de Massachusetts em um caso cibernético.
+
+Depois de uma série de testes de privacidade nos três serviços VPN, a equipe descobriu que todos os três serviços VPN estavam vazando os endereços IP reais de seus usuários, que podem ser usados ??para identificar usuários individuais e sua localização real.
+
+O VPN Mentor explica que as vulnerabilidades podem “permitir que governos, organizações ou indivíduos identifiquem o endereço IP real de um usuário, mesmo com o uso das VPNs”.
+
+Os problemas no ZenMate e no PureVPN não foram divulgados, uma vez que ainda não foram corrigidos, mas, enquanto isso, o VPN Mentor afirma que os problemas descobertos no ZenMate VPN foram menos severos do que o HotSpot Shield e o PureVPN.
+
+A equipe encontrou três vulnerabilidades separadas no HotSpot Shield da AnchorFree, que foram resolvidas pela empresa. São elas:
+
+Revogar todo o tráfego (CVE-2018-7879) – Essa vulnerabilidade residia na extensão do Chrome do Hotspot Shield, poderia permitir que hackers remotamente sequestrassem e redirecionassem o tráfego da vítima para um site malicioso.
+
+Vazamento de DNS (CVE-2018-7878) – A falha de vazamento do DNS no Hotspot Shield expôs o endereço IP original dos usuários ao servidor DNS, permitindo que os ISPs monitorassem e registrassem suas atividades online.
+
+Vazamento de Endereço IP Real (CVE-2018-7880) – Essa falha representa uma ameaça à privacidade dos usuários, já que os hackers podem rastrear a localização real do usuário e o ISP. O problema ocorreu porque a extensão tinha uma lista de permissões livres para “conexão direta”. Os pesquisadores descobriram que qualquer domínio com localhost, por exemplo, localhost.foo.bar.com, e ‘type = a1fproxyspeedtest’ no URL ignoram o proxy e vazam o endereço IP real.
+
+Todas as três vulnerabilidades estavam no plugin gratuito do Chrome do HotSpot Shield, não nos aplicativos de desktop ou smartphone.
+
+Os pesquisadores também relataram vulnerabilidades nos plugins/Chrome do Zenmate e PureVPN, mas, por enquanto, os detalhes dos bugs estão sendo mantidos em sigilo, já que ambos os fabricantes ainda não os corrigiram.
+
+Os pesquisadores acreditam que a maioria dos outros serviços de VPN também sofre de problemas semelhantes.
+
